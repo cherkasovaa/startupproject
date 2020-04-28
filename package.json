@@ -1,21 +1,14 @@
 {
-  "name": "rd_fe_students_pack",
+  "name": "my_settings",
   "private": true,
   "version": "1.0.0",
-  "description": "This repo exists for RD students needs",
+  "description": "settings for project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint-staged": "lint-staged"
   },
-  "keywords": [
-    "RD",
-    "Front-End",
-    "FE",
-    "JavaScript"
-  ],
-  "author": "Vitalii Rybka, @var_bincom",
-  "license": "Apache-2.0",
+  "author": "Alina Cherkasova",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
