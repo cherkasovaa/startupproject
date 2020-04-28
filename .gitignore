@@ -3,4 +3,4 @@ dist
 .idea
 .vscode
 package-lock.json
-styles.css.map
+src/css/styles.css.map
